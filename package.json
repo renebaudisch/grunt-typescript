@@ -1,8 +1,9 @@
 {
   "author": "kazuhide maruyama",
+  "reviver": "René Baudisch",
   "name": "grunt-typescript",
   "description": "compile typescript to javascript",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "homepage": "https://github.com/k-maru/grunt-typescript",
   "repository": {
     "type": "git",
